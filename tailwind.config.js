@@ -12,7 +12,8 @@ module.exports = {
     extend: {
       fontFamily: {
         edu: ['"Edu AU VIC WA NT Pre"', 'sans-serif'], // Add your font here
-        cur: ['"Sour Gummy"', 'cursive']
+        cur: ['"Sour Gummy"', 'cursive'],
+        play: ['Playwrite NG Modern', 'serif']
       },
     },
   },
